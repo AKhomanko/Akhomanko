@@ -1,6 +1,9 @@
 ### <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexey</a></h1>
+
 <h3 align="center">Computer engineer from Russia 🇷🇺</h3>
+
 ## :e-mail:  Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/akhomanko)
+
 ### :hammer_and_wrench: My Tools :
 
 <div align="center">
